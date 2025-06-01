@@ -1,8 +1,11 @@
 # FarmAiEcom
 #  Mobile App
 
-DEMO : https://drive.google.com/file/d/1IrVlmvNAxi8beF0-jue8-eVpOicnV9nh/view?usp=sharing
-Try APK: https://drive.google.com/file/d/15xxK29fRWqaGmjYZRDXiq-TkjQy5pRvQ/view?usp=sharing
+## 📽 Demo
+
+▶️ [Watch Demo Video](https://drive.google.com/file/d/1IrVlmvNAxi8beF0-jue8-eVpOicnV9nh/view?usp=sharing)
+
+📥 [Download APK](https://drive.google.com/file/d/15xxK29fRWqaGmjYZRDXiq-TkjQy5pRvQ/view?usp=sharing)
 
 A comprehensive React Native mobile application for agricultural technology solutions, featuring AI-powered farming assistance, e-commerce capabilities, and educational resources.
 
